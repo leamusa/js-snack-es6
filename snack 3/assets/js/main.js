@@ -5,7 +5,6 @@ const animals = [
   { name: "Horse", family: "Equidae", class: "Mammal" },
   { name: "Dolphin", family: "Delphinidae", class: "Mammal" },
   { name: "Hippopotamus", family: "Hippopotamidae", class: "Mammal" },
-  { name: "Hippopotamus", family: "Hippopotamidae", class: "Mammal" },
   { name: "Eagle", family: "Accipitridae", class: "Bird" },
   { name: "Frog", family: "Ranidae", class: "Amphibian" },
   { name: "Shark", family: "Lamnidae", class: "Fish" },
