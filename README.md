@@ -6,13 +6,20 @@ repo name: js-snack-es6
 # Description:
 
 Complete the snacks below by placing each snack in its folder inside the repo.
-Open file: js-snack-es6
-:poster
-:billboard
-:billboard
-:billboard
 In each snack folder you will put the necessary html/js files.
 Chocolate bar:
+
+# snack 1
+
+1. Create an array of 10 cars.
+   (Each car object will have the following properties: make, model and power supply (gasoline, diesel, LPG, electric, methane).)
+2. Divide cars into 3 separate arrays: in the first array only petrol cars, in the second only diesel cars, in the third the rest of cars.
+3. Finally print the 3 arrays separately.
+
+# snack 2
+
+A partire da un array di stringhe, crea un secondo array formattando le stringhe del primo array in minuscolo e con l’iniziale maiuscola.
+Es: [‘pippo’, ‘PLUTO’, ‘Paperino’] => [‘Pippo’, ‘Pluto’, ‘Paperino’]
 
 # SNACK 3
 
@@ -50,3 +57,14 @@ Chocolate bar:
 - Create a new array with sentences about each person's ability to drive(people.map)
 - Function to check if a person can drive
 - Displaying the list of people and then the driving list
+
+# tools snack 1
+
+- Create an array of 10 cars
+  (Each car object will have the following properties: make, model, and power supply)
+- Divide cars into 3 separate arrays: in the firs:
+- array only petrol cars
+- in the second only diesel cars
+- in the third the rest of cars.
+- Separate cars based on fuel type =iteration between diff type of car.filter
+- Print the three arrays separately
