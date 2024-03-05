@@ -1,27 +1,52 @@
 # js-snack-es6
 
-esercizio di oggi: JS Snacks :barretta_cioccolato:
-nome repo: js-snack-es6
-Descrizione:
-Completate gli snack di seguito mettendo ciascuno snack nella sua cartella dentro la repo.
-:cartella_file_aperta: js-snack-es6
-:cartella_file: snack 1
-:cartella_file: snack 2
-:cartella_file: snack 3
-:cartella_file: snack 4
-Nella cartella di ciascuno snack metterete i file html/js necessari.
-:barretta_cioccolato: SNACK 3
-Crea un array di oggetti che rappresentano degli animali.
-Ogni animale ha un nome, una famiglia e una classe.
-Es:
-[
-{ nome: 'leone', famiglia: 'felidi', classe: 'mammiferi' },
-{ nome: 'cane', famiglia: 'canidi', classe: 'mammiferi' },
-{ nome: 'gallina', famiglia: 'fasianidi', classe: 'uccelli' },
-]
-Crea un nuovo array con la lista dei mammiferi.
-:barretta_cioccolato: SNACK 4
-Crea un array di oggetti che rappresentano delle persone.
-Ogni persona ha un nome, un cognome e un’età.
-Crea quindi un nuovo array inserendo, per ogni persona, una frase con il nome e cognome e l’indicazione se può guidare, in base all’età.
-Confermate lettura come al solito e buon divertimento :baby-yoda: :barretta_cioccolato:
+Today’s exercise: JS Snacks :Chocolate bar:
+repo name: js-snack-es6
+
+# Description:
+
+Complete the snacks below by placing each snack in its folder inside the repo.
+Open file: js-snack-es6
+:poster
+:billboard
+:billboard
+:billboard
+In each snack folder you will put the necessary html/js files.
+Chocolate bar:
+
+# SNACK 3
+
+1. Create an array of objects representing animals.
+
+- Each animal has a name, a family and a class.
+  Es:
+  [
+  { name: 'lion', family: 'felidi', class: 'mammals'},
+  { name: 'dog', family: 'canids', class: 'mammals'},
+  { name: 'hen', family: 'phasianids', class: 'birds'},
+  ]
+
+2. Create a new array with the list of mammals.
+
+# SNACK 4
+
+1. Create an array of objects that represent people.
+
+- Each person has a name, a surname and an age.
+
+2. Then create a new array by entering, for each person, a sentence with the first and last name and the indication if he can drive, based on the age.
+
+# tools snack 3
+
+- Array of objects representing animals
+- New array with mammals
+- Creating a new list item
+- Setting the content of the list item (name,class,family)
+- Displaying the list of animals an then the mammals
+
+# tools snack 4
+
+- Create an array of objects representing people
+- Create a new array with sentences about each person's ability to drive(people.map)
+- Function to check if a person can drive
+- Displaying the list of people and then the driving list
