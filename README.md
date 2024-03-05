@@ -1,70 +1,68 @@
 # js-snack-es6
 
 Today’s exercise: JS Snacks :Chocolate bar:
-repo name: js-snack-es6
+Repository name: js-snack-es6
 
-# Description:
+## Description
 
-Complete the snacks below by placing each snack in its folder inside the repo.
-In each snack folder you will put the necessary html/js files.
-Chocolate bar:
+Complete the snacks below by placing each snack in its folder inside the repo. In each snack folder, you will put the necessary html/js files.
 
-# snack 1
+### Chocolate bar
+
+#### Snack 1
 
 1. Create an array of 10 cars.
-   (Each car object will have the following properties: make, model and power supply (gasoline, diesel, LPG, electric, methane).)
+   (Each car object will have the following properties: make, model, and power supply (gasoline, diesel, LPG, electric, methane).)
 2. Divide cars into 3 separate arrays: in the first array only petrol cars, in the second only diesel cars, in the third the rest of cars.
 3. Finally print the 3 arrays separately.
 
-# snack 2
+#### Snack 2
 
-A partire da un array di stringhe, crea un secondo array formattando le stringhe del primo array in minuscolo e con l’iniziale maiuscola.
-Es: [‘pippo’, ‘PLUTO’, ‘Paperino’] => [‘Pippo’, ‘Pluto’, ‘Paperino’]
+- From an array of strings, create a second array by formatting the strings of the first array in lowercase and with a capital initial.
+- Example: ['foo', 'PLUTO', 'Donald'] => ['Goofy', 'Pluto', 'Donald']
 
-# SNACK 3
+#### Snack 3
 
 1. Create an array of objects representing animals.
 
-- Each animal has a name, a family and a class.
-  Es:
-  [
-  { name: 'lion', family: 'felidi', class: 'mammals'},
-  { name: 'dog', family: 'canids', class: 'mammals'},
-  { name: 'hen', family: 'phasianids', class: 'birds'},
-  ]
+   - Each animal has a name, a family, and a class.
+     Example:
 
-2. Create a new array with the list of mammals.
+   [
+   { name: 'lion', family: 'felidi', class: 'mammals'},
+   { name: 'dog', family: 'canids', class: 'mammals'},
+   { name: 'hen', family: 'phasianids', class: 'birds'},
+   ]
 
-# SNACK 4
+## Tools
 
-1. Create an array of objects that represent people.
-
-- Each person has a name, a surname and an age.
-
-2. Then create a new array by entering, for each person, a sentence with the first and last name and the indication if he can drive, based on the age.
-
-# tools snack 3
+### Snack 3
 
 - Array of objects representing animals
 - New array with mammals
 - Creating a new list item
-- Setting the content of the list item (name,class,family)
-- Displaying the list of animals an then the mammals
+- Setting the content of the list item (name, class, family)
+- Displaying the list of animals and then the mammals
 
-# tools snack 4
+### Snack 4
 
 - Create an array of objects representing people
-- Create a new array with sentences about each person's ability to drive(people.map)
+- Create a new array with sentences about each person's ability to drive (people.map)
 - Function to check if a person can drive
 - Displaying the list of people and then the driving list
 
-# tools snack 1
+### Snack 1
 
 - Create an array of 10 cars
   (Each car object will have the following properties: make, model, and power supply)
-- Divide cars into 3 separate arrays: in the firs:
-- array only petrol cars
-- in the second only diesel cars
-- in the third the rest of cars.
-- Separate cars based on fuel type =iteration between diff type of car.filter
+- Divide cars into 3 separate arrays: in the first array only petrol cars, in the second only diesel cars, in the third the rest of cars.
+- Separate cars based on fuel type = iteration between different types of car.filter
 - Print the three arrays separately
+
+### Snack 2
+
+- add an array
+
+- map function to create anew array
+- uppercase to lower case letters method
+- print in console
