@@ -36,6 +36,24 @@ Complete the snacks below by placing each snack in its folder inside the repo. I
 
 ## Tools
 
+# _SNACK 5_
+
+1. Creare un array di bici da corsa:
+
+- ogni bicivarà le seguenti proprietà: nome e peso.
+
+2. Stampare in console la bici con peso minore utilizzando destructuring e template literal
+
+# _SNACK 6_
+
+1. Creare un array di oggetti di squadre di calcio.
+
+- Ogni squadra avrà diverse proprietà: nome, punti fatti, falli subiti.
+
+2. Nome sarà l’unica proprietà da compilare, le altre saranno tutte settate a 0.
+3. Generare numeri random al posto degli 0 nelle proprietà: punti fatti e falli subiti.
+4. Infine usando la destrutturazione creiamo un nuovo array i cui elementi contengono solo nomi e falli subiti e stampiamo tutto in console.
+
 ### Snack 3
 
 - Array of objects representing animals
